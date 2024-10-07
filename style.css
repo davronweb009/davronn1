@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Inter", sans-serif;
+  
+}
+
+header{
+    background-color: black;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+}
+.img3{
+    width: 10px;
+    height: 10px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.languech{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.ul2{
+    background-color: rgb(44, 44, 44);
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+}
+main{
+    background: url(image\ 5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+button{
+    background-color: #F1A900;
+    width:192px ;
+    height: 82px;
+    /* font-size: x-large; */
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F1A900;
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;
+    gap: 0px;
+    opacity: 0px;
+   margin-top:40px ;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 752px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+    margin-top:40px ;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F1A900 ;
+    width: 966px;
+    height: 202px;
+    top: 579px;
+    left: 263px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    opacity: 0.3;
+    
+    
+}
+.div3 a{
+    color: white;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.section{
+    gap: 30px;
+}
+.img1{
+    margin-left: 30px;
+}
+.davron{
+    display: flex;
+    height: 1000px;
+    width: 500px;
+}
+.div3{
+    color: #FFFFFF;
+}
